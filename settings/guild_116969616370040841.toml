@@ -1,0 +1,6 @@
+[guilds]
+116969616370040841 = { id = 116969616370040841}
+
+[channels]
+158390767923101706 = { id = 158390767923101706, enabled = true, timeout = "24h", send_reminder = true }
+116969616370040841 = { id = 116969616370040841, enabled = true, timeout = "28h", send_reminder = false }
